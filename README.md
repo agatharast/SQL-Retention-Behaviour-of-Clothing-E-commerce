@@ -13,4 +13,5 @@ The clothing eCommerce management want to continue the analysis by understanding
 - Insights and Recommendations
 
 ### Project Slide
-Check full slide in here: [SQL Deck]()
+Check full slide in here: [SQL Deck](https://docs.google.com/presentation/d/13MuHwNFKm6N1y6oMXlGhzBouQejaB_sfsUq4RIW2A-o/edit?usp=share_link)
+Bigquery file: [Bigquery](https://console.cloud.google.com/bigquery?sq=467295104136:ed55e668b3f444e6a7a41e5f3147f452)
